@@ -63,12 +63,10 @@ cd LoPECS-CI
 ```
 LoPECS-CI/
 │
-├── yolo_detection.py
-├── visual_odometry.py
+├── code_yolo_slam.py
 ├── lane_detection.py
 ├── voice_recognition.py
-├── datasets/               # Optional sample videos or images
-├── models/                 # Pre-trained YOLO or SLAM models
+├──report.pdf
 └── README.md
 ```
 
